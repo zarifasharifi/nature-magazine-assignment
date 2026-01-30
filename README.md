@@ -1,2 +1,2 @@
-# nature-magazine-assignment
-a simple nature magazine project
+![nature images](images.html.link)
+this project shows a peaceful nature 
